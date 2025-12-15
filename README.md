@@ -96,16 +96,12 @@ frontend/
 cd backend
 mvn clean install
 mvn spring-boot:run
-Backend runs on:
-
-http://localhost:8080
 
 Frontend Setup
 cd frontend
 npm install
 npm run dev
-### Frontend runs on
-http://localhost:5173
+
 🎯 Project Objective
 
 The main goal of BudgetWise is to:
